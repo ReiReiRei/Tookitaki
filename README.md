@@ -2,7 +2,7 @@
 ## Requirements
 * Sbt build tool 0.13.16
 * JDK8+
-* Apcahe Spark 2.2.1 distribution
+* Apcahe Spark 2.2.0 distribution
 ## How to build
 ```sbt assembly```
 Output jar is tookitaki-assembly-0.1.jar
